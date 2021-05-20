@@ -14,7 +14,7 @@ gem 'haml'
 gem 'simple_form', '4.0.1'
 gem 'client_side_validations', '9.3.2'
 gem 'client_side_validations-simple_form', '6.6.0'
-gem 'nokogiri', '~> 1.8'
+gem 'nokogiri', '~> 1.11'
 
 group :development, :test do
   gem 'byebug', platform: :mri
